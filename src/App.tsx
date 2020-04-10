@@ -1,4 +1,4 @@
-import firebase from 'firebase'
+import * as firebase from 'firebase/app'
 import 'firebase/firestore'
 import React, { useEffect } from 'react'
 import './App.css'
